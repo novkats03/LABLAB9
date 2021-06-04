@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//программа является учебной
 int main(){
     int a, b;
     scanf("%d%d", &a, &b);
